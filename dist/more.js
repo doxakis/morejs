@@ -9,6 +9,7 @@ $(function () {
     // More info here: https://select2.github.io/
     if ($.fn.select2) {
         $(".select2").select2({
+            width: '100%',
             placeholder: function () {
                 return $(this).data('placeholder');
             }
