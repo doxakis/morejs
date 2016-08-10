@@ -1,0 +1,17 @@
+{
+  "name": "morejs",
+  "homepage": "https://github.com/doxakis/morejs",
+  "authors": [
+    "Philip Doxakis"
+  ],
+  "description": "Common JavaScript code you certainly write every time on your websites.",
+  "main": "\"/dist/more.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
